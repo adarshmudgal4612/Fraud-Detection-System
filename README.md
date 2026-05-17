@@ -66,7 +66,7 @@ The objective is to classify transactions as **fraudulent** or **non-fraudulent*
 ├── fraud_detection_pipeline.pkl
 ├── requirements.txt
 ├── analysis_model.ipynb
-├── AI/ML dataset.csv
+├── AI/ML dataset.csv (https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
 ├── Fruad_Detection.py
 └── README.md
 ```
