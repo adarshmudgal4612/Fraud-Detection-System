@@ -1,4 +1,4 @@
-# Financial Transaction Fraud Detection System
+# Fraud Detection System
 
 A Machine Learning–based fraud detection system developed to identify suspicious financial transactions using transaction-level behavioral patterns and balance analysis. The project leverages a dataset containing 6.3M+ transaction records and provides real-time fraud prediction through an interactive Streamlit web application.
 
